@@ -1,2 +1,2 @@
-# obsidian1
+# obsidian
 obisidian repository
